@@ -1,0 +1,15 @@
+{
+  "name": "sample-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devDep": "node app",
+    "devStart": "nodemon app"
+  },
+  "author": "Norrico Gerald",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
